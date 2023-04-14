@@ -1,0 +1,4 @@
+﻿//To run this code locally you'll need to serve it. If you have node installed, navigate to the folder containing the code and run lite-server:
+
+//cd to where is the index.html file
+//npx lite-server
